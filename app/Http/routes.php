@@ -12,5 +12,21 @@
 */
 
 Route::get('/', function () {
-    return view('index');
-});
+		return view('index');
+	});
+
+Route::get('menu', function () {
+		return view('index-1');
+	});
+	
+Route::get('prenotazioni', function () {
+			return view('index-2');
+	});
+	
+Route::get('blog', function () {
+			return view('index-3');
+	});
+	
+Route::get('dovesiamo', function () {
+				return view('index-4');
+	});
