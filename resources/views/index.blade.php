@@ -526,7 +526,7 @@
 	     </div>
 		</div>
 	    <div class="map">
-			<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2863.1649344186017!2d12.23501131575531!3d44.14184382871285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132ca4c3f36be49f%3A0x3c7cb900fb1fb63f!2sVia+Mulini%2C+35%2C+47521+Cesena+FC!5e0!3m2!1sit!2sit!4v1460374261426" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>"> </iframe><br /><small><a href="https://www.google.it/maps/place/Via+Mulini,+35,+47521+Cesena+FC/@44.1418438,12.2350113,17z/data=!3m1!4b1!4m2!3m1!1s0x132ca4c3f36be49f:0x3c7cb900fb1fb63f" style="color:#666;font-size:12px;text-align:left"> </a></small>
+			<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=United+Kingdom&amp;aq=0&amp;oq=un&amp;sll=37.0625,-95.677068&amp;sspn=48.956293,107.138672&amp;ie=UTF8&amp;hq=&amp;hnear=United+Kingdom&amp;ll=55.378051,-3.435973&amp;spn=135.795411,68.554687&amp;t=m&amp;z=2&amp;output=embed"> </iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=United+Kingdom&amp;aq=0&amp;oq=un&amp;sll=37.0625,-95.677068&amp;sspn=48.956293,107.138672&amp;ie=UTF8&amp;hq=&amp;hnear=United+Kingdom&amp;ll=55.378051,-3.435973&amp;spn=135.795411,68.554687&amp;t=m&amp;z=2" style="color:#666;font-size:12px;text-align:left"> </a></small>
 			<div class="opening_hours">
 			 <ul class="times">
 			 	<h3>Opening <span class="opening">Hours</span></h3>
