@@ -14,20 +14,24 @@ class Controller extends BaseController
 }
 
 {
+	function ()
+	{
+		return view('chisiamo');
+	
 	function menu()
 	{
-		return view('index-1');
+		return view('trainers');
 	}
 	function prenotazioni()
 	{
-		return view('index-2');
+		return view('corsi');
 	}
 	function blog()
 	{
-		return view('index-3');
+		return view('blog');
 
 		function dovesiamo()
 		{
-			return view('index-4');
+			return view('tariffe');
 		}
 	}

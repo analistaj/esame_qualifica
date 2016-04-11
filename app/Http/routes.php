@@ -15,8 +15,8 @@ Route::get('/', function () {
 		return view('index');
 	});
 
-Route::get('menu', function () {
-		return view('index-1');
+Route::get('chisiamo', function () {
+		return view('chisiamo');
 	});
 	
 Route::get('prenotazioni', function () {
